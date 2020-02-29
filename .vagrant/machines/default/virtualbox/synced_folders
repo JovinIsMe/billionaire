@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/billionaire":{"type":"virtualbox","fsnotify":true,"owner":"vagrant","group":"vagrant","guestpath":"/home/vagrant/billionaire","hostpath":"/home/angelico/Documents/billionaire","disabled":false,"__vagrantfile":true}}}
